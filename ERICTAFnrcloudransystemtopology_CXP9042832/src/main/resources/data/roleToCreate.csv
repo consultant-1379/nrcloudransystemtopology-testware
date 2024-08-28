@@ -1,0 +1,2 @@
+name,type,description,status,assignedRoles,policy,taskProfileName,assignedTaskProfiles
+System_Create,custom,Create system defined collections & Topologies,ENABLED,,"{""system_created_object"": [""create"",""delete""]}",,

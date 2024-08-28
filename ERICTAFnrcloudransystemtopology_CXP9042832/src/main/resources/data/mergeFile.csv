@@ -1,0 +1,5 @@
+name,RFA250sel,timeZone,nodeOperatorType,autoTreatAs,FunctionalMim,runInSSGID
+vDuNode,n,"Europe/Dublin",NETSIM,1,0,y
+vCuCpNode,n,"Europe/Dublin",netsim,1,0,y
+vRdmNode,n,"Europe/Dublin",netsim,1,0,y
+vRadNode,n,,netsim,1,0,y

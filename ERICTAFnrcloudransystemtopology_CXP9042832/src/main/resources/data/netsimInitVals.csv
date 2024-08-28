@@ -1,0 +1,5 @@
+name,neProductVersion,toBeCandidated,toBeSupported,toPrepareLater
+vDuNode,"[(identity=CXF 101 0100/4,revision=R1153A)]",1,2,0
+vCuCpNode,"[(identity=CXF 101 0102/1,revision=R1201A)]",1,2,0
+vRdmNode,"[(identity=CXF 101 0100/4,revision=R721A)]",1,2,0
+vRadNode,"[(identity=CXP9024418/15,revision=R48A35)]",0,0,0

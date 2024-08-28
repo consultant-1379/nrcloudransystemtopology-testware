@@ -1,0 +1,5 @@
+query
+select all objects of type GNBCUCPFunction from node type Shared-CNF
+select all objects of type GNBDUFunction from node type "Shared-CNF,RadioNode"
+select ManagedElement from node type RadioNode
+select SectorEquipmentFunction from node type Shared-CNF

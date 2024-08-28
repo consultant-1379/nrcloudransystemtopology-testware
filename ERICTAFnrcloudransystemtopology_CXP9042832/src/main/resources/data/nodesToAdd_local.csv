@@ -1,0 +1,5 @@
+networkElementId,nodeType,platformType,ipAddress,ossPrefix,port,secureUserName,secureUserPassword,transportType,timeZone
+5G139vDURI001,Shared-CNF,CBP-OI,,,6513,netsim,netsim,TLS,"Europe/Dublin"
+5G131vCUCPRI001,Shared-CNF,CBP-OI,,,6513,netsim,netsim,TLS,"Europe/Dublin"
+CORE5G137RDM001,Shared-CNF,CBP-OI,,,6513,netsim,netsim,TLS,"Europe/Dublin"
+NR06gNodeBRadio00001,RadioNode,,,,6513,netsim,netsim,TLS,"Europe/Dublin"

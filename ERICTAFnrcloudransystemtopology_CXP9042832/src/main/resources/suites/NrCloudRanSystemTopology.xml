@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="NrCloudRanSystemTopology - Boru">
+
+    <parameter name="netsimInitVals" value="netsimInitVals.csv"/>
+    <parameter name="createGNBDUFunction" value="true"/>
+
+    <test name="NrCloudRanSystemTopology">
+        <classes>
+            <class name="com.ericsson.oss.services.test.scenarios.NrCloudRanSystemTopologyScenarios">
+                <methods>
+                    <include name="executeNrCloudRanScript" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

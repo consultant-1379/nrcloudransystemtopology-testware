@@ -1,0 +1,7 @@
+username,password,firstName,lastName,email,enabled,roles,timeout,passwordResetFlag
+nrclouduser,Password1,test,test,test@test.ie,true,"Network_Explorer_Administrator,Scripting_Operator,Cmedit_Administrator,System_Create",30,FALSE
+boru_peones,le55Th@00,no,authorization,test@test.ie,true,Network_Explorer_Operator,30,FALSE
+boru_operator,P@55w00rd,simple,authorization,test@test.ie,true,NodeVersionSupport_Operator,30,FALSE
+boru_admin,P@55w00rd,big,authorization,test@test.ie,true,NodeVersionSupport_Administrator,30,FALSE
+boru_simple_operator,P@55w00rd,simple,authorization,test@test.ie,true,OPERATOR,30,FALSE
+boru01,d1fT0rh&h5mu5ma,Mr,Spock,test@test.ie,true,ADMINISTRATOR,30,FALSE
